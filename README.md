@@ -1,5 +1,3 @@
-## Across the Great Wall we can reach every corner in the world
-
 ## wireguard.sh
 
 - Description: This is a shell script for configure and start WireGuard VPN server.
